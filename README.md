@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Web Front-End Team, Manager
+Web Bucket, Car Sharing (B2C) Bucket, Manager
 
 <!--
 **socar-lisbon/socar-lisbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
